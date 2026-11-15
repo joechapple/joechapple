@@ -6,9 +6,9 @@ I'm based in the UK and work through Upwork.
 
 ## Demo projects
 
-- [MCP connector example](https://github.com/japple12345/mcp-connector-example)
-- [Telegram AI agent starter](https://github.com/japple12345/telegram-ai-agent-starter)
-- [Scraper alerts](https://github.com/japple12345/scraper-alerts)
+- [MCP connector example](https://github.com/joechapple/mcp-connector-example)
+- [Telegram AI agent starter](https://github.com/joechapple/telegram-ai-agent-starter)
+- [Scraper alerts](https://github.com/joechapple/scraper-alerts)
 
 ## Stack
 
